@@ -1,2 +1,4 @@
 import changeOfResponsibility from "./creational/changeOfResponsibility/index";
-changeOfResponsibility();
+import iterator from "./creational/iterator";
+// changeOfResponsibility();
+iterator();
