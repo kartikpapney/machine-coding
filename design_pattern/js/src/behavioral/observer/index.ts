@@ -1,4 +1,4 @@
-import EventEmitter from "events";
+import EventEmitter from "./EventEmitter";
 
 export default () => {
     const greetV1 = (name: string) => console.log(`Hello, ${name}!`);
