@@ -5,10 +5,12 @@
 // import laptop from "./creational/factory/index";
 // import cpuFacade from "./structural/facade/index";
 // import cpuAdapter from "./structural/adapter/index"
-import eventEmitter from "./behavioral/observer/index"
+// import eventEmitter from "./behavioral/observer/index"
+
+import composite from "./structural/composite"
 // changeOfResponsibility();
 // singleTon();
 // user()
 // laptop()
 // cpuFacade()
-eventEmitter()
+composite()
