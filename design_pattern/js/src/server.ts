@@ -3,9 +3,12 @@
 // import singleTon from "./creational/singleton";
 // import user from "./creational/builder/index";
 // import laptop from "./creational/factory/index";
-import cpuFacade from "./structural/facade/index";
+// import cpuFacade from "./structural/facade/index";
+// import cpuAdapter from "./structural/adapter/index"
+import eventEmitter from "./behavioral/observer/index"
 // changeOfResponsibility();
 // singleTon();
 // user()
 // laptop()
-cpuFacade()
+// cpuFacade()
+eventEmitter()
