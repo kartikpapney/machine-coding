@@ -6,11 +6,11 @@
 // import cpuFacade from "./structural/facade/index";
 // import cpuAdapter from "./structural/adapter/index"
 // import eventEmitter from "./behavioral/observer/index"
-
-import composite from "./structural/composite"
+// import composite from "./structural/composite"
+import RateLimiter from "./examples/RateLimiter/index"
 // changeOfResponsibility();
 // singleTon();
 // user()
 // laptop()
 // cpuFacade()
-composite()
+RateLimiter()
